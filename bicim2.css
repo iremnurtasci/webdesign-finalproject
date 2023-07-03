@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,300&display=swap');
+* {box-sizing: border-box}
+
+body{
+	background-color: #DDF8FF;
+}
+p{
+	font-family: Fira Sans;
+}
+
+
+h1, h2, h3, h4{
+  font-family: Kanit;
+}
+
+
+
+
+
+
